@@ -10,7 +10,7 @@ function main()
 	{
 		args = ["analysis.js"];
 	}
-	args = ["mystery.js"];
+	//args = ["mystery.js"];
 	var filePath = args[0];
 	
 	complexity(filePath);
